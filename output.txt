@@ -1,0 +1,6 @@
+{"name":"Jack","surname":"McGinnis","street":"220 hobo Av.","city":"Phila","number":"09119"}
+{"name":"John Da Man","surname":"Repici","street":"120 Jefferson St.","city":"Riverside","number":"08075"}
+{"name":"John","surname":"Doe","street":"120 jefferson st.","city":"Riverside","number":"08075"}
+{"name":"","surname":"Blankman","street":"","city":"SomeTown","number":"00298"}
+{"name":"Stephen","surname":"Tyler","street":"7452 Terrace At the Plaza road","city":"SomeTown","number":"91234"}
+{"name":"Joan the bone","surname":"Anne","street":"9th at Terrace plc","city":"Desert City","number":"00123"}
